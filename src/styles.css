@@ -1,0 +1,21 @@
+.number{
+    font-size: 50vh;
+    background-color: rgb(37, 37, 165);
+
+    border-style: double;
+    border-color: black;
+    border-radius: 50px;
+}
+
+button{
+    width: 16VW;
+    height: 8vh;
+    margin-top: 3vh;
+
+    background-color: rgb(56, 97, 90);
+    font-size: 77%;
+    
+    border-style: double;
+    border-color: black;
+    border-radius: 10px;
+}
